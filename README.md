@@ -3,6 +3,6 @@ Juego de parejas de números en Java. Útil para aprender a manejar arrays bidim
 
 Juego de las parejas. Se crea una matriz de 7x4 para 28 cartas y 14 parejas.
 Se carga el array con parejas de números del 1 al 14. Barajeo dichos valores.
-Solicitar sucesivamente a dos jugadores las cartas a levantar. Sin son iguales los
-puntuamos al jugador respectivo. El juego finaliza cuando todas las cartas estén
+Solicitar sucesivamente a dos jugadores los numeros/cartas a levantar. Sin son iguales se
+"levantan" las cartas. El juego finaliza cuando todas las cartas estén
 “levantadas”.
